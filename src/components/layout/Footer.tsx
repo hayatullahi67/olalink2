@@ -10,10 +10,10 @@ const navItems = [
 ];
 
 const socialLinks = [
-  { href: '#', icon: Facebook },
-  { href: '#', icon: Twitter },
-  { href: '#', icon: Linkedin },
-  { href: '#', icon: Github },
+  { href: 'https://facebook.com', icon: Facebook },
+  { href: 'https://twitter.com', icon: Twitter },
+  { href: 'https://linkedin.com', icon: Linkedin },
+  { href: 'https://github.com', icon: Github },
 ];
 
 export function Footer() {
