@@ -3,13 +3,14 @@
     {
       "id": "hero-background",
       "description": "Abstract technology background",
-      "imageUrl": "https://picsum.photos/seed/hero/1920/1080",
+      "imageUrl": "/images/landing-bg-1.jpeg",
+
       "imageHint": "technology abstract"
     },
     {
       "id": "about-us-main",
       "description": "A modern office environment with a team collaborating.",
-      "imageUrl": "https://picsum.photos/seed/aboutmain/800/600",
+      "imageUrl": "/images/img-1.jpeg",
       "imageHint": "office collaboration"
     },
     {

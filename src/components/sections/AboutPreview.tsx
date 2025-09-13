@@ -33,7 +33,7 @@ export default function AboutPreview() {
                 src={aboutImage.imageUrl}
                 alt={aboutImage.description}
                 width={800}
-                height={600}
+                height={400}
                 className="rounded-lg shadow-xl"
                 data-ai-hint={aboutImage.imageHint}
               />
