@@ -46,7 +46,7 @@
     {
       "id": "project-2",
       "description": "Mobile application interface design.",
-      "imageUrl": "/images/fce-award.jpg",
+      "imageUrl": "/images/ovotte.jpg",
       "imageHint": "mobile app"
     },
     {
@@ -57,20 +57,20 @@
     },
     {
       "id": "project-4",
-      "description": "E-commerce website on a laptop.",
-      "imageUrl": "https://picsum.photos/seed/project4/600/400",
+      "description": "Tech Grid",
+      "imageUrl": "/images/TechGrid.png",
       "imageHint": "ecommerce website"
     },
     {
       "id": "project-5",
       "description": "Cloud infrastructure diagram.",
-      "imageUrl": "https://picsum.photos/seed/project5/600/400",
+      "imageUrl": "/images/ovote-profile.png",
       "imageHint": "cloud infrastructure"
     },
     {
       "id": "project-6",
       "description": "A person using a custom software on a desktop computer.",
-      "imageUrl": "https://picsum.photos/seed/project6/600/400",
+      "imageUrl": "/images/pp.jpeg",
       "imageHint": "software usage"
     }
   ]

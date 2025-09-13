@@ -61,10 +61,10 @@ export function Footer() {
                 <a href="mailto:olalinktech@gmail.com" className="flex items-center gap-2 hover:text-accent">
                   olalinktech@gmail.com
                 </a>
-                <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-accent">
-                  +1 (234) 567-890
+                <a href="tel:+234 9062 041 051" className="flex items-center gap-2 hover:text-accent">
+                 Phone: +234 9062 041 051, <br /> Phone: +234 916 712 6413
                 </a>
-                <p>123 Tech Avenue, Silicon Valley, CA</p>
+                <p>83A Ebute metta East Lagos.<br />12, Toyin Modupe street, Sanni, Lafenwa, Abeokuta</p>
               </div>
             </div>
           </div>

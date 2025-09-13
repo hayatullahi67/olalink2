@@ -37,7 +37,7 @@ const allProjects = [
     },
     {
         id: 'project-4',
-        title: 'Corporate Website Redesign',
+        title: 'TechGrid',
         category: 'Web Development',
         description: 'A modern, responsive website for a major corporation.',
         longDescription: 'Led the complete redesign and development of a corporate website, focusing on improved user experience, faster load times, and a modern aesthetic. The new site saw a 40% increase in user engagement.',
