@@ -62,9 +62,9 @@ export function Footer() {
                   contact@olalink.com
                 </a>
                 <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-accent">
-                  +1 (234) 567-890
+                  +234 906 204 1051
                 </a>
-                <p>123 Tech Avenue, Silicon Valley, CA</p>
+                <p>12, Toyin Modupe Street, Lagos </p>
               </div>
             </div>
           </div>
