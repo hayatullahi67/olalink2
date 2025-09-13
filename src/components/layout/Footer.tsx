@@ -58,13 +58,13 @@ export function Footer() {
             <div>
               <p className="font-semibold text-primary">Contact Us</p>
               <div className="mt-4 space-y-2 text-sm text-muted-foreground">
-                <a href="mailto:contact@olalink.com" className="flex items-center gap-2 hover:text-accent">
-                  contact@olalink.com
+                <a href="mailto:olalinktech@gmail.com" className="flex items-center gap-2 hover:text-accent">
+                  olalinktech@gmail.com
                 </a>
                 <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-accent">
-                  +234 906 204 1051
+                  +1 (234) 567-890
                 </a>
-                <p>12, Toyin Modupe Street, Lagos </p>
+                <p>123 Tech Avenue, Silicon Valley, CA</p>
               </div>
             </div>
           </div>
