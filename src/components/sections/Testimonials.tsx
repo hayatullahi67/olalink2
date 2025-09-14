@@ -10,23 +10,23 @@ import {
 
 const testimonials = [
   {
-    quote: "OlaLink transformed our online presence. Their team was professional, responsive, and delivered a product that exceeded our expectations. Highly recommended!",
-    name: 'Jane Doe',
-    company: 'Tech Innovators Inc.',
+    quote: "The Ovoté system made voting so easy and transparent. I loved how I could quickly cast my vote from my phone without stress. It really added excitement to the award night!",
+    name: 'Tolulope',
+    company: 'Contestant',
     avatarUrl: PlaceHolderImages.find(p => p.id === 'team-member-2')?.imageUrl || '',
     avatarHint: PlaceHolderImages.find(p => p.id === 'team-member-2')?.imageHint || '',
   },
   {
-    quote: "The custom software solution they built for us has streamlined our operations and saved us countless hours. It's been a game-changer for our business.",
-    name: 'John Smith',
-    company: 'Logistics Pro',
+    quote: "Managing votes used to be a challenge, but Ovoté simplified everything. The platform was smooth, secure, and gave us real-time results that kept the event fun and fair.",
+    name: 'Comr.Omolola',
+    company: 'SUG Social Director',
     avatarUrl: PlaceHolderImages.find(p => p.id === 'team-member-3')?.imageUrl || '',
     avatarHint: PlaceHolderImages.find(p => p.id === 'team-member-3')?.imageHint || '',
   },
   {
-    quote: "Working with OlaLink felt like a true partnership. They took the time to understand our needs and delivered a solution that was a perfect fit.",
+    quote: "I was impressed with how seamless the process was. No long queues, no confusion—just straightforward voting. Ovoté made the award night feel modern and engaging.",
     name: 'Emily Johnson',
-    company: 'Creative Solutions',
+    company: 'Attendees',
     avatarUrl: PlaceHolderImages.find(p => p.id === 'team-member-1')?.imageUrl || '',
     avatarHint: PlaceHolderImages.find(p => p.id === 'team-member-1')?.imageHint || '',
   },
