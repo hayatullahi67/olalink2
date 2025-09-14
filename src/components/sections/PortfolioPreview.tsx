@@ -7,8 +7,8 @@ import PortfolioGrid from '../PortfolioGrid';
 const allProjects = [
     {
         id: 'project-1',
-        title: 'E-commerce Platform',
-        category: 'Web Development',
+        title: 'FCE Award Voting system',
+        category: 'Web Application',
         description: 'A full-featured online store with a custom CMS.',
         longDescription: 'Developed a scalable e-commerce platform from the ground up, featuring a secure payment gateway, real-time inventory management, and a user-friendly admin dashboard. The platform was built to handle high traffic and provides a seamless shopping experience across all devices.',
         techStack: ['React', 'Node.js', 'PostgreSQL', 'Stripe API'],
@@ -17,8 +17,8 @@ const allProjects = [
     },
     {
         id: 'project-2',
-        title: 'Mobile Banking App',
-        category: 'Software Development',
+        title: 'Ovot System',
+        category: 'Web Application',
         description: 'Secure and intuitive mobile app for a financial institution.',
         longDescription: 'Created a cross-platform mobile banking application that offers features like fund transfers, bill payments, and transaction history. Security was paramount, with multi-factor authentication and end-to-end encryption implemented to protect user data.',
         techStack: ['React Native', 'Firebase', 'REST APIs'],
@@ -27,8 +27,8 @@ const allProjects = [
     },
     {
         id: 'project-3',
-        title: 'Sales Analytics Dashboard',
-        category: 'Data & Analytics',
+        title: 'Ceadese',
+        category: 'Web Application for Higher Institution',
         description: 'Interactive dashboard for visualizing sales data.',
         longDescription: 'Designed and built an interactive data visualization dashboard that provides real-time insights into sales performance. The tool allows for filtering by region, product, and time period, empowering the sales team to make data-driven decisions.',
         techStack: ['D3.js', 'Python (Flask)', 'SQL'],

@@ -10,7 +10,7 @@
     {
       "id": "about-us-main",
       "description": "A modern office environment with a team collaborating.",
-      "imageUrl": "/images/img-1.jpeg",
+      "imageUrl": "/images/img-3.jpeg",
       "imageHint": "office collaboration"
     },
     {
@@ -40,19 +40,19 @@
     {
       "id": "project-1",
       "description": "Screenshot of a modern web application dashboard.",
-      "imageUrl": "https://picsum.photos/seed/project1/600/400",
+      "imageUrl": "/images/ovote.jpg",
       "imageHint": "web dashboard"
     },
     {
       "id": "project-2",
       "description": "Mobile application interface design.",
-      "imageUrl": "https://picsum.photos/seed/project2/600/400",
+      "imageUrl": "/images/fce-award.jpg",
       "imageHint": "mobile app"
     },
     {
       "id": "project-3",
       "description": "Data visualization chart.",
-      "imageUrl": "https://picsum.photos/seed/project3/600/400",
+      "imageUrl": "/images/ceadese.jpg",
       "imageHint": "data visualization"
     },
     {

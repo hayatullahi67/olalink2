@@ -40,7 +40,7 @@ export default function AboutPage() {
                 src={aboutImage.imageUrl}
                 alt={aboutImage.description}
                 width={600}
-                height={400}
+                height={50}
                 className="rounded-lg shadow-xl"
                 data-ai-hint={aboutImage.imageHint}
               />
@@ -82,7 +82,7 @@ export default function AboutPage() {
       </section>
 
       {/* Team Section */}
-      <section className="py-16 md:py-24">
+      {/* <section className="py-16 md:py-24">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center text-primary mb-12">Meet Our Team</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
@@ -109,7 +109,7 @@ export default function AboutPage() {
             })}
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
