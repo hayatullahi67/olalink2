@@ -1,4 +1,4 @@
-# **App Name**: OlaLink Corporate Site
+# **App Name**: OlaLink Technology
 
 ## Core Features:
 
