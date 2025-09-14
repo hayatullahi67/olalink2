@@ -16,7 +16,7 @@ export default function AboutPreview() {
               Your Partner in Digital Transformation
             </h2>
             <p className="mt-4 text-muted-foreground">
-              At OlaLink, we're more than just a software company. We're your strategic partner, dedicated to crafting innovative digital solutions that drive your business forward. Our team combines technical expertise with a deep understanding of market dynamics to deliver products that are not only powerful but also intuitive and user-centric.
+              At Olalink, we're more than just a software company. We're your strategic partner, dedicated to crafting innovative digital solutions that drive your business forward. Our team combines technical expertise with a deep understanding of market dynamics to deliver products that are not only powerful but also intuitive and user-centric.
             </p>
             <p className="mt-4 text-muted-foreground">
               From startups to established enterprises, we help our clients navigate the complexities of the digital landscape, turning challenges into opportunities for growth.

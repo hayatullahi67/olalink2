@@ -24,7 +24,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="bg-secondary py-16 md:py-24">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl font-bold tracking-tight sm:text-5xl text-primary">About OlaLink</h1>
+          <h1 className="text-4xl font-bold tracking-tight sm:text-5xl text-primary">About Olalink</h1>
           <p className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground">
             We are a passionate team of creators, innovators, and problem-solvers dedicated to building a better digital future.
           </p>

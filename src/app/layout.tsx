@@ -6,7 +6,7 @@ import { Footer } from '@/components/layout/Footer';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'OlaLink Technology',
+  title: 'Olalink Technology',
   description: 'Innovating Solutions, Driving Growth',
 };
 

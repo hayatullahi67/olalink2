@@ -31,7 +31,7 @@ export default function HeroSection() {
             <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground font-bold">
               <Link href="/contact">Get Started</Link>
             </Button>
-            <Button asChild size="lg" variant="outline" className="text-white border-white hover:bg-white/10">
+            <Button asChild size="lg" variant="outline" className="text-black border-white hover:bg-white/10">
               <Link href="/about">Learn More</Link>
             </Button>
           </div>

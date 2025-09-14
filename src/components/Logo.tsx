@@ -14,7 +14,7 @@ export function Logo({ className, textClassName }: LogoProps) {
          <Image
                 src="/images/olalink-logo.jpeg"
                 className="logo rounded"
-                alt="OlaLink Logo"
+                alt="Olalink Logo"
                 width={50}
                 height={50}              
               />
